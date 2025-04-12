@@ -1,0 +1,213 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Argo.WEB.MastersAndPrey.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Argo.WEB.MastersAndPrey.m8aykwqx0b.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\MandPbot\\Masters_and_Prey\\Source\\Websites\\Argo.WEB.MastersAndPrey\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Argo.WEB.MastersAndPrey.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Argo.WEB.MastersAndPrey.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Argo.WEB.MastersAndPrey.props",
+      "PackagePath": "build\\Argo.WEB.MastersAndPrey.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Argo.WEB.MastersAndPrey.props",
+      "PackagePath": "buildMultiTargeting\\Argo.WEB.MastersAndPrey.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Argo.WEB.MastersAndPrey.props",
+      "PackagePath": "buildTransitive\\Argo.WEB.MastersAndPrey.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

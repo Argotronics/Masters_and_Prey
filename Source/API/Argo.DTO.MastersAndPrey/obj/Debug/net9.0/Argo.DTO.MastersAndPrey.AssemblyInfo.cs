@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Argo.DTO.MastersAndPrey")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5041bfbb864571147ee33993219555ec49bceff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c71f3b632faaf2552fc946f9ab959c8dc7622813")]
 [assembly: System.Reflection.AssemblyProductAttribute("Argo.DTO.MastersAndPrey")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Argo.DTO.MastersAndPrey")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Argo.WEB.MastersAndPrey.props" />
+</Project>

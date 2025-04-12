@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Argo.API.MastersAndPrey.props" />
+</Project>

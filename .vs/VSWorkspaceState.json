@@ -1,9 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Source",
-    "\\Source\\MP.Web.API"
+    "\\Source\\API",
+    "\\Source\\API\\Argo.API.MastersAndPrey",
+    "\\Source\\API\\Argo.DTO.MastersAndPrey",
+    "\\Source\\Websites",
+    "\\Source\\Websites\\Argo.WEB.MastersAndPrey"
   ],
-  "SelectedNode": "\\Source\\MP.Web.API\\MP.Web.API.sln",
+  "SelectedNode": "\\Argo.WEB.MastersAndPrey.sln",
   "PreviewInSolutionExplorer": false
 }
