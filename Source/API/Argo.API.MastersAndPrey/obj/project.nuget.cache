@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rg1aD0Mieuw=",
+  "success": true,
+  "projectFilePath": "D:\\MandPbot\\Masters_and_Prey\\Source\\API\\Argo.API.MastersAndPrey\\Argo.API.MastersAndPrey.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Desktop\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.3\\microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "C:\\Users\\Desktop\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
